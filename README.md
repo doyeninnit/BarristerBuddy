@@ -1,6 +1,6 @@
 # Project Documentation
 
-This documentation provides instructions on how to clone and set up the AI Chatbot project locally, as well as an overview of its functionality and the project files.
+This documentation provides instructions on how to clone and set up Barrister Buddy project locally, as well as an overview of its functionality and the project files.
 
 ## Cloning the Project
 
