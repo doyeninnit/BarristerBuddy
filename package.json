@@ -7,5 +7,12 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
+  },
+  "dependencies": {
+    "@pinecone-database/pinecone": "^0.1.6",
+    "ai": "^2.1.20",
+    "langchain": "^0.0.109",
+    "pdf-parse": "^1.1.1",
+    "react-dropzone": "^14.2.3"
   }
 }
