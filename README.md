@@ -10,7 +10,7 @@ To clone the project repository locally, follow these steps:
 2. Navigate to the directory where you want to clone the project.
 3. Run the following command:
 
-git clone <repository-url>
+git clone https://github.com/Nashons/BarristerBuddy.git
 
 
 ## Project Setup
