@@ -1,21 +1,12 @@
 # Barrister Buddy Project Documentation
 
-This documentation provides instructions on how to clone and set up the AI Chatbot project locally, as well as an overview of its functionality and the project files.
+This documentation provides comprehensive information on cloning, setting up, and running the Barrister Buddy project on your local machine. It also serves as a quick guide to the structure and functionalities of the project.
 
 ## Getting Started
 
 ### Prerequisites
 
-1. Open your terminal or command prompt.
-2. Navigate to the directory where you want to clone the project.
-3. Run the following command:
-
-git clone <repository-url>
-
-
-## Project Setup
-
-Before running the project, make sure you have the following prerequisites installed:
+The following software should be installed on your system:
 
 - Node.js (LTS version)
 - npm (Node Package Manager)
